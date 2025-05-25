@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Sopan Vidhate 👋
 
-<!--
-**sopan11/sopan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently pursuing my MCA and have completed a BCS degree from Savitribai Phule Pune University.  
+I enjoy building full-stack web applications using Python, Django, Java, Spring Boot, React, and more.
 
-Here are some ideas to get you started:
+## Skills
+- Python, Django, Java, Spring Boot  
+- React, JavaScript, HTML, CSS, Bootstrap  
+- MySQL, MongoDB, SQLite  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🛒 E-commerce Web App with user login, cart, and admin panel  
+- 🚌 Bus Ticket Booking System using React and Spring Boot  
+
+## Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/sopan-vidhate-49721022a)  
+- [Twitter](https://twitter.com/vidhate_sopan)  
+- [Email](sopanvidhate11@gmail.com)
